@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **commandoxterthy@gmail.com**
 
-- 📄 Know about my experiences [GitHub.com/MartinsAloysius](GitHub.com/MartinsAloysius)
+- 📄 Know about my experiences [GitHub.com/MartinsAloysius](github.com/MartinsAloysius)
 
 - ⚡ Fun fact **I'm a community manager**
 
