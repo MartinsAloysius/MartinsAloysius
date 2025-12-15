@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinsaloysius" alt="martinsaloysius" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/xterthy_3" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/xterthy_3?logo=twitter&style=for-the-badge" alt="https://x.com/xterthy_3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/Xterthy3" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/xterthy_3?logo=twitter&style=for-the-badge" alt="https://x.com/xterthy_3" /></a> </p>
 
 - 🔭 I’m currently working on [a basic DApp banking system](will be added soon)
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [to be created](to be created)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/xterthy3](www.linkedin.com/in/xterthy3)
+- 📝 I regularly write articles on [www.linkedin.com/in/xterthy3](www.linkedin.com/in/martinsaloysius)
 
 - 💬 Ask me about **solidity**
 
-- 📫 How to reach me **commandoxterthy@gmail.com**
+- 📫 How to reach me **marrtinsaloysius86@gmail.com**
 
 - 📄 Know about my experiences [GitHub.com/MartinsAloysius](github.com/MartinsAloysius)
 
@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/xterthy_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/xterthy_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/xterthy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/xterthy3" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/Xterthy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Xterthy3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/martinsaloysius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/martinsaloysius" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:23468971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23468971" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/x_terthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x_terthy" height="30" width="40" /></a>
 </p>
