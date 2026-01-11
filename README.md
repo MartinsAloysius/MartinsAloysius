@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Martins Aloysius
 
-<!--
-**MartinsAloysius/MartinsAloysius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Web3 geek (Smart Contract Developer/Technical Community Manager/Basic Frontend Dev`**
 
-Here are some ideas to get you started:
+Smart contract developer focused on Solidity, Foundry, and decentralized systems.
+Building secure, well-tested DeFi protocols, token systems, and Web3 applications, with a strong emphasis on security, architecture, and real-world deployment.
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill Stacks
+[![My Skills](https://skillicons.dev/icons?i=solidity,html,css,github,docker,vscode,remix)](https://skillicons.dev)
+
+**Others Include**: Foundry, Metamask, Ethereum, Etherscan
+
+------
+
+## About Me
+- A community manager with 4+ years engaging, managing and leading web3 communities
+- Blockchain technical knowledge mastery and indepth understanding
+- Smart contract developer with skills and understanding of solidity, foundry, metamask interaction, ethereum, etherscan, docker usage, alchemy, remix, vscode
+- Knowlege in basic reentrancy testing, security practices and smart contract auditing
+
+<a href="www.linkedin.com/in/martinsaloysius" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Xterthy3" target="blank">
+ <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+</a>
+
+
+## Links to 
