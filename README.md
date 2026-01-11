@@ -1,3 +1,7 @@
+![Image](https://github.com/MartinsAloysius/MartinsAloysius/blob/main/ChatGPT%20Image%20Jan%2011,%202026,%2008_30_00%20AM.png?raw=true)
+
+
+
 # 👨‍💻 Martins Aloysius
 
 **`Web3 geek (Smart Contract Developer/Technical Community Manager/Basic Frontend Dev`**
@@ -27,4 +31,8 @@ Building secure, well-tested DeFi protocols, token systems, and Web3 application
 </a>
 
 
-## Links to 
+## Stats
+![Martins' GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinsAloysius&show_icons=true&theme=dark)
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsAloysius&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
